@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.klasa1 {
+    height: 380px;
+    background-color: lightgrey;
+    text-align: center;
+}
+
+.klasa1 img {
+    height: 300px;
+}
+
+.klasa2 {
+    border: 8px;
+    height: 180px;
+    background-color: orange;
+    font-size: 18px;
+    border-top: 8px solid brown;
+}
+
+.klasa2 p {
+    padding: 8px;
+}
+
+.imeiprezime {
+    width: 400px;
+    background-color: brown;
+    color: white;
+    padding: 8px;
+}
+
+.klasa3 {
+    height: 180px;
+    background-color: lightblue;
+    border-top: 8px solid green;
+}
+
+.mojihobiji {
+    width: 400px;
+    background-color: green;
+    color: white;
+    padding: 8px;
+}
+
+.klasa3 ul {
+    font-size: 18px;
+    padding: 8px;
+    text-align: center;
+}
+
+.klasa4 {
+    height: 400px;
+    background-color: antiquewhite;
+    border-top: 8px solid chocolate;
+    text-align: center;
+}
+
+.mojeslike {
+    width: 400px;
+    background-color: chocolate;
+    padding: 8px;
+    color: white;
+}
+
+img {
+    height: 250px;
+    align-items: center;
+    margin-top: 30px;
+}
